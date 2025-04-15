@@ -1,2 +1,8 @@
-# KJ3-W06
-Game Development Project - Week 06 (Krafton Jungle 3rd)
+# Slower Than Nuke
+
+![GIF](preview1.gif) 
+
+
+**Slower Than Nuke**는 수집형 생존 시뮬레이션 게임입니다.
+
+핵전쟁으로 망가진 세상에서 우리는 낙원을 찾아야합니다.
