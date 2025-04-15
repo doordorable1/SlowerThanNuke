@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d769c1f17d34f914a978cf7caca740e9, type: 3}
+  m_Name: C_03
+  m_EditorClassIdentifier: 
+  _illustration: {fileID: -736486299, guid: e3ac0ade2563a2d4dacbbd16636fbc0d, type: 3}
+  _name: "\uADF8\uB9AC\uB4DC"
+  _rank: 2
+  _description: "\uC0AC\uB9C9 \uD55C\uBCF5\uD310\uC5D0\uC11C \uBB34\uAE30 \uC81C\uC791\uC744
+    \uD558\uBA70 \uC0DD\uC874\uD558\uB358 \"\uADF8\uB9AC\uB4DC\". \uBD88\uBC1C\uD0C4\uC73C\uB85C
+    \uB9CC\uB4E0 \uADF8\uC758 \uCD1D\uC740, \uD2B8\uB7ED\uC744 \uC9C0\uD0A4\uB294
+    \uAC00\uC7A5 \uAC15\uB825\uD55C \uBB34\uAE30\uB2E4."
+  _maxHealth: 115
+  _moveSpeed: 1
+  _repairSpeed: 4
+  _attackSpeed: 3
+  _healSpeed: 3
+  _avoidance: 5
+  _evilRate: 5
+  _isMale: 1

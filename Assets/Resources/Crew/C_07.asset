@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d769c1f17d34f914a978cf7caca740e9, type: 3}
+  m_Name: C_07
+  m_EditorClassIdentifier: 
+  _illustration: {fileID: -1805672816, guid: e3ac0ade2563a2d4dacbbd16636fbc0d, type: 3}
+  _name: "\uB8E8\uC2DC"
+  _rank: 2
+  _description: "\uAC15\uCCA0 \uC131\uACA9\uC758 \uC804\uC9C1 \uC6B4\uC804\uC218
+    \"\uB8E8\uC2DC\". \uD2B8\uB7ED\uC758 \uD578\uB4E4\uC744 \uC7A1\uC73C\uBA74 \uB204\uAD6C\uBCF4\uB2E4
+    \uB0C9\uC815\uD558\uACE0, \uC815\uD655\uD558\uB2E4."
+  _maxHealth: 100
+  _moveSpeed: 2
+  _repairSpeed: 4
+  _attackSpeed: 3
+  _healSpeed: 4
+  _avoidance: 3
+  _evilRate: 13
+  _isMale: 0
