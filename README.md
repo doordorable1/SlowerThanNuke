@@ -15,7 +15,7 @@
 
 ## Authors
 
-*   **Mireene-Unity** - [Github](![187392515](https://github.com/user-attachments/assets/6af7a689-c528-4415-9830-8e72bf4e1d56))
-*   **JKim0212** - [Github](https://github.com/minsuk999)
-*   **sayIshuu** - [Github](https://github.com/vcds1029)
+*   **Mireene-Unity** - [Github](https://github.com/Mireene-Unity)
+*   **JKim0212** - [Github](https://github.com/JKim0212)
+*   **sayIshuu** - [Github](https://github.com/sayIshuu)
 *   **goalgoloo1** - [Github](https://github.com/goalgoloo1)
