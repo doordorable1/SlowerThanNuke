@@ -13,11 +13,6 @@
 
 게임 빌드는 [여기](https://github.com/goalgoloo1/KJ3-W06/releases/tag/1.0.0)에서 다운로드 가능합니다! ✨
 
-## Authors
 
-*   **Mireene-Unity** - [Github](https://github.com/Mireene-Unity)
-*   **JKim0212** - [Github](https://github.com/JKim0212)
-*   **sayIshuu** - [Github](https://github.com/sayIshuu)
-*   **goalgoloo1** - [Github](https://github.com/goalgoloo1)
   
 ## Known Issues
